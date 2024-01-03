@@ -207,7 +207,7 @@ def thescore():
 
 def ten():
   root = Tk()
-  root.title("Section 10: Diploma")
+  root.title("Section 10: Certification")
 
   thy = input("Please enter your name: ")
   theirname = str(thy).upper()
