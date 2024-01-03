@@ -242,7 +242,7 @@ def nine():
   button.pack(side=tk.LEFT)
 
   button = tk.Button(root, 
-                   text="View Evolution of Technology Diploma", 
+                   text="View Evolution of Technology Certification", 
                    command=ten)
   button.pack(side=tk.LEFT)
 
